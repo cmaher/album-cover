@@ -2,7 +2,7 @@
 
 A project to procedurally generate covers given
 
-1. A random flikr image - for your album art
+1. A random flickr image - for your album art
 2. A random wikipedia article title - for your band name
 3. A random quote - for your album title
 
